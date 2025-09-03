@@ -1,4 +1,4 @@
-# Optimization Methods With Mathematics and Python By Mejbah Ahammad
+# <center>Optimization Methods With Mathematics and Python By Mejbah Ahammad</center>
 
 ## 📌 **15 Books on Optimization**
 1. *Convex Optimization* – Stephen Boyd & Lieven Vandenberghe
