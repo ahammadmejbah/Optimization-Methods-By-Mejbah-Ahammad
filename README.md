@@ -1,6 +1,6 @@
 # <center>Optimization Methods With Mathematics and Python By Mejbah Ahammad</center>
 
-## **15 Books on Optimization**
+## **Books on Optimization**
 1. *Convex Optimization* – Stephen Boyd & Lieven Vandenberghe
 2. *Numerical Optimization* – Jorge Nocedal & Stephen J. Wright
 3. *An Introduction to Optimization* – Edwin K. P. Chong & Stanislaw H. Zak
